@@ -1,1 +1,1 @@
-# Balanced-BST
+# Balanced BST (Binary Search Trees)
